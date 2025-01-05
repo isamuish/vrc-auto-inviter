@@ -3,6 +3,15 @@ name = "my account name"
 cookie = "my auth cookie"
 # proxy = "my proxy" # (OPTIONAL)
 
+# [[account]]
+# name = "testaccount1"
+# cookie = "auth=authcookie_; twoFactorAuth="
+# proxy = "socks5://10.124.0.1:1080"
+
 [group]
 name = "my group name"
 id = "my group id"
+
+# [group]
+# name = "testgroup1"
+# id = "grp_"
