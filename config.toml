@@ -1,13 +1,12 @@
 [[account]]
 name = "my account name"
 cookie = "my auth cookie"
-# proxy = "my proxy" # (OPTIONAL)
 
 # EXAMPLE:
 # [[account]]
 # name = "testaccount1"
 # cookie = "auth=authcookie_; twoFactorAuth="
-# proxy = "socks5://10.124.0.1:1080"
+# proxy = "socks5://10.124.0.1:1080" # (OPTIONAL)
 # You can add multiple accounts to the config.
 
 [group]
