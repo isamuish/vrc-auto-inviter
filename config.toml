@@ -1,0 +1,8 @@
+[[account]]
+name = "my account name"
+cookie = "my auth cookie"
+# proxy = "my proxy" # (OPTIONAL)
+
+[group]
+name = "my group name"
+id = "my group id"
