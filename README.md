@@ -23,7 +23,9 @@ cd vrc-auto-inviter
 cargo build --release
 ```
 
-3. Run the project.
+3. Load VRChat cookies into the config file.
+
+4. Run the project.
 
 ```sh
 ./target/release/vrc-auto-inviter
